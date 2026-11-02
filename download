@@ -1,0 +1,12 @@
+# Geheime Werte und lokale Daten, nie ins Repository
+.env
+.env.*
+!.env.example
+import/
+export/
+tokens/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/

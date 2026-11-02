@@ -1,0 +1,4 @@
+# Netlify: veröffentlicht nur den Ordner app, ohne Build-Schritt
+[build]
+  publish = "app"
+  command = ""
